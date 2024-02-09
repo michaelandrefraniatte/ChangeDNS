@@ -2,7 +2,11 @@ C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\bin\Release\Ch
 C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\bin\Release\ChangeDNS.exe
 C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\bin\Release\ChangeDNS.pdb
 C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\obj\Release\ChangeDNS.csproj.AssemblyReference.cache
-C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\obj\Release\ChangeDNS.csproj.SuggestedBindingRedirects.cache
 C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\obj\Release\ChangeDNS.csproj.CoreCompileInputs.cache
 C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\obj\Release\ChangeDNS.exe
 C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\obj\Release\ChangeDNS.pdb
+C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\bin\Release\Keyboardinputs.dll
+C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\bin\Release\SharpDX.DirectInput.dll
+C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\bin\Release\SharpDX.dll
+C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\bin\Release\Keyboardinputs.pdb
+C:\Users\micha\Documents\github\ChangeDNS\Src\ChangeDNS\ChangeDNS\obj\Release\ChangeDNS.csproj.CopyComplete

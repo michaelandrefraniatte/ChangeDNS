@@ -1,1 +1,1 @@
-netsh interface ipv4 set dns name=Ethernet static DNSIP
+netsh interface ipv4 set dns name=Ethernet static 

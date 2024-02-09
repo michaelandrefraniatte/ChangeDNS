@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeDNS", "ChangeDNS\ChangeDNS.csproj", "{C7FE48FA-665F-46F9-831F-130B9E552A1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyboardinputs", "Keyboardinputs\Keyboardinputs.csproj", "{BEB50B3F-8552-444E-BD3F-D930607B60F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C7FE48FA-665F-46F9-831F-130B9E552A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7FE48FA-665F-46F9-831F-130B9E552A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7FE48FA-665F-46F9-831F-130B9E552A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB50B3F-8552-444E-BD3F-D930607B60F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB50B3F-8552-444E-BD3F-D930607B60F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB50B3F-8552-444E-BD3F-D930607B60F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB50B3F-8552-444E-BD3F-D930607B60F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
